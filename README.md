@@ -7,7 +7,7 @@
 
 ## 🎯 Objective
 
-The **Training Studio Landing Page** is a modern, user-friendly **ReactJS-based** web application designed to provide a seamless experience for fitness enthusiasts. The main goal is to showcase various **training programs**, introduce **expert trainers**, and enable users to **connect with the gym's management** effortlessly. The platform serves as an interactive medium to help users explore and make informed decisions about their fitness journey.
+The **Training Studio Landing Page** is a modern, user-friendly **ReactJS-based** web application (a sub branch of a production line project called "Power Zone") designed to provide a seamless experience for fitness enthusiasts. The main goal is to showcase various **training programs**, introduce **expert trainers**, and enable users to **connect with the gym's management** effortlessly. The platform serves as an interactive medium to help users explore and make informed decisions about their fitness journey.
 
 ## 🌍 Scope of the Project
 
