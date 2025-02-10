@@ -1,68 +1,48 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 🏋️ Training Studio Landing Page
 
-## Available Scripts
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-In the project directory, you can run:
+## 🎯 Objective
 
-### `npm start`
+The **Training Studio Landing Page** is a modern, user-friendly **ReactJS-based** web application designed to provide a seamless experience for fitness enthusiasts. The main goal is to showcase various **training programs**, introduce **expert trainers**, and enable users to **connect with the gym's management** effortlessly. The platform serves as an interactive medium to help users explore and make informed decisions about their fitness journey.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 🌍 Scope of the Project
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+This landing page includes several key features:
 
-### `npm test`
+### 📚 Course & Training Program Showcase  
+- Users can view and explore different **training courses** offered by the gym.
+- Each program has **detailed descriptions**, benefits, and schedules.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 🏋️‍♂️ Meet the Trainers  
+- A **dedicated trainers' section** introduces expert fitness professionals.
+- Users can check trainers’ **expertise, certifications, and experience**.
 
-### `npm run build`
+### 📍 Gym Location & Contact  
+- A **Google Map integration** is available in the footer to **display the gym’s exact location**.  
+- Users can contact the gym’s management via the **contact form**.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 📧 Contact Form  
+- A **responsive contact form** at the footer allows users to reach out for inquiries, memberships, and personal training sessions.
+- Secure form validation ensures **user-friendly and error-free communication**.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🛠️ Technologies Used
 
-### `npm run eject`
+| **Technology**  | **Purpose**  |
+|----------------|-------------|
+| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) | Frontend framework for dynamic UI |
+| ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) | Markup structure |
+| ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) | Styling and layout |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | Interactive elements & logic |
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 🚀 Getting Started
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+1. **Clone the repository**
+   ```sh
+   git clone https://github.com/YOUR_GITHUB_USERNAME/Traning-Studio.git
+   cd Traning-Studio
